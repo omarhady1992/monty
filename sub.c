@@ -1,10 +1,10 @@
 #include "monty.h"
 /**
-  *f_sub-sustr
+  *fun_sub-sustr
   *@head: head of stack
   *@counter: line #
  */
-void f_sub(stack_t **head, unsigned int counter)
+void fun_sub(stack_t **head, unsigned int counter)
 {
 	stack_t *aux;
 	int sus, nodes;
